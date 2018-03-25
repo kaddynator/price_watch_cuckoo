@@ -1,6 +1,7 @@
+## date: 03/24/2018
+
 ##user: KArthik Ravi
 ##Place: Hackathon clt, discovery science lab
-## date: 03/24/2018
 
 ##model: Time series analysis
 ##model name: Price watching Cuckoo
